@@ -1,1 +1,1 @@
-# The File "Churn_Proj" Cleans and normalizes the atached dataset and then proceeds to run 3 types of ML models who all return similar results prooving that DNN (Deep Neural Networks) are not always necessery.
+# The File "Churn_Proj" Cleans and normalizes the atached dataset and then proceeds to run 3 types of ML models who all return similar results prooving that DNN (Deep Neural Networks) are not always a viable approach.
